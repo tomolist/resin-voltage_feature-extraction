@@ -15,3 +15,6 @@ wheels/
 # OSが自動生成する隠しファイル
 .DS_Store
 Thumbs.db
+
+# 一括実行.ipynb の出力（本番データの結果を Git に含めない）
+実行結果/
